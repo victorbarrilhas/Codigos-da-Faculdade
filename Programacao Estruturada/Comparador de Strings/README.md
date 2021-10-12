@@ -12,7 +12,7 @@ Para instalar o GCC deverá ser seguido o seguinte [TUTORIAL](https://stackoverf
 
 ## Como compilar e rodar
 
-- Executar o comando ```gcc -o comparador '.\COMPARAÇÃO DE STRINGS.cpp'```
+- Executar o comando ```gcc -o comparador '.\COMPARADOR DE STRINGS.cpp'```
 
 - Após execução será gerado um arquivo de nome [comparador.exe]
 
